@@ -1,4 +1,5 @@
 # Atividade DDMII (P1)
+# Alunos: Carlos (RA 0050832211031),  Júlia (RA 0050832211011), Gabriel (RA 0050832211034)
 
 Repositório destinado as atividade de desenvolvimento de dispositivos móveis.
 
